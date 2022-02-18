@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tradingalliance.app/static/css/main.8c368847.css",
-    "main.js": "/tradingalliance.app/static/js/main.058c8165.js",
-    "static/js/787.4ed88057.chunk.js": "/tradingalliance.app/static/js/787.4ed88057.chunk.js",
-    "static/media/logo.png": "/tradingalliance.app/static/media/logo.f67d0536296d4de3b43a.png",
-    "index.html": "/tradingalliance.app/index.html",
-    "main.8c368847.css.map": "/tradingalliance.app/static/css/main.8c368847.css.map",
-    "main.058c8165.js.map": "/tradingalliance.app/static/js/main.058c8165.js.map",
-    "787.4ed88057.chunk.js.map": "/tradingalliance.app/static/js/787.4ed88057.chunk.js.map"
+    "main.css": "/static/css/main.8c368847.css",
+    "main.js": "/static/js/main.b26d6260.js",
+    "static/js/787.4ed88057.chunk.js": "/static/js/787.4ed88057.chunk.js",
+    "static/media/logo.png": "/static/media/logo.f67d0536296d4de3b43a.png",
+    "index.html": "/index.html",
+    "main.8c368847.css.map": "/static/css/main.8c368847.css.map",
+    "main.b26d6260.js.map": "/static/js/main.b26d6260.js.map",
+    "787.4ed88057.chunk.js.map": "/static/js/787.4ed88057.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c368847.css",
-    "static/js/main.058c8165.js"
+    "static/js/main.b26d6260.js"
   ]
 }
